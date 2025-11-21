@@ -1,0 +1,8 @@
+{
+  "name": "SparkAI",
+  "description": "A high-fidelity recreation of the Spark chat interface featuring multimodal AI capabilities, code generation, and a sleek glassmorphism design using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
